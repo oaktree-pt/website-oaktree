@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My 3D Print Gallery</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>My 3D Print Gallery</h1>
+    <p>Showcasing my 3D printing projects</p>
+  </header>
+
+  <main class="gallery">
+    <img src="images/print1.jpg" alt="3D Print 1">
+    <img src="images/print2.jpg" alt="3D Print 2">
+    <img src="images/print3.jpg" alt="3D Print 3">
+  </main>
+
+  <footer>
+    <p>© 2025 My 3D Prints</p>
+  </footer>
+</body>
+</html>
